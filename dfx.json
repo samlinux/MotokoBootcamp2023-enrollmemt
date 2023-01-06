@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "motoko": {
+      "main": "main.mo",
+      "type": "motoko"
+    }
+  }
+}
